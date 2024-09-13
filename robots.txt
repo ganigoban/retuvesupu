@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://retuvesupu.netlify.app/sitemap.xml
